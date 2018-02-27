@@ -3,7 +3,7 @@
 /* 
  * Page 26
  * 
- * Write a program ThinkChapter0202 so that 
+ * Write a program ThinkChapter0203 so that 
  * it displays the date in standard American 
  * format, for example: Thursday, July 16, 2015.
  * Program also displays the date in European format. 
