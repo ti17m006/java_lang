@@ -7,7 +7,7 @@
  * 
  */
 
-class ThinkChapter0201 {
+class ThinkChapterStefan0201 {
 	
 	public static void main(String [] args) {
 		
