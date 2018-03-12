@@ -17,6 +17,6 @@ class ThinkChapter0303 {
         System.out.print("Enter inches: ");
         inch = myInput.nextInt();
         cm = inch * CM_PER_INCH;
-        System.out.println(inch + " inches is " + cm + " centimeters");
+        System.out.println(inch + " inches are " + cm + " centimeters");
     }
 }
