@@ -5,6 +5,13 @@
     that are fundamental to the design of the
     Java programming language.” The String class 
     is also part of the java.lang package.
+
+    A package is a collection of classes, which define methods. 
+    Methods contain statements, some of which contain expressions.
+    Expressions are made up of tokens, which are the basic 
+    elements of a program, including numbers, variable names, 
+    operators, keywords, and punctuation like parentheses, 
+    braces and semicolons.
 */
 
 import java.util.Scanner;
