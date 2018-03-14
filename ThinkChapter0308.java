@@ -17,4 +17,5 @@ class ThinkChapter0308 {
         guess = myIn.nextInt();
         System.out.println("Chosen number is: " + number);
     }
+    
 }
