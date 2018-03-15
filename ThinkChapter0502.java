@@ -1,6 +1,6 @@
 /**
  * ThinkChapter0502
- * Conditional statements
+ * Conditional statements first example
  * Check if the number is positive
  */
 public class ThinkChapter0502 {
@@ -16,7 +16,7 @@ public class ThinkChapter0502 {
     private static void positive01(int a) {
         
     }
-    
+
     public static void main(String[] args) {
         
     }
