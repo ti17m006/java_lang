@@ -1,6 +1,7 @@
 
 /**
  * ThinkChapter0501
+ * Basic logical operators
  */
 public class ThinkChapter0501 {
 
