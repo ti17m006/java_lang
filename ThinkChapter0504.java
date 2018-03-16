@@ -16,6 +16,7 @@ public class ThinkChapter0504 {
         // beacuse compiler knows this will not be shown
         System.out.println("This will not be printed");
     }
+
     public static void main(String[] args) {
         firstPrint();
     }

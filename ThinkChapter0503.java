@@ -1,3 +1,4 @@
+
 /**
  * ThinkChapter0503
  * Flag Variables
@@ -9,16 +10,17 @@ public class ThinkChapter0503 {
 
     public static void printOdd(boolean isOdd) {
         if (isOdd) {
-            System.out.println("Given number is odd");            
+            System.out.println("Given number is odd");
         } else {
             System.out.println("Given number is even");
-        }    
+        }
     }
 
     public static void isNumberOdd(int a) {
         boolean isOdd = (a % 2 != 0);
         printOdd(isOdd);
     }
+
     public static void isNumberOdd02(int a) {
         boolean isOdd;
         if (a % 2 != 0) {
@@ -26,7 +28,7 @@ public class ThinkChapter0503 {
         } else {
             isOdd = false;
         }
-        printOdd(isOdd);        
+        printOdd(isOdd);
     }
 
     public static void main(String[] args) {
