@@ -1,7 +1,7 @@
 
-/*
-    Program that converts a total number 
-    of seconds to hours, minutes, and seconds.
+/**
+ *   Program that converts a total number 
+ *   of seconds to hours, minutes, and seconds.
 */
 
 import java.util.Scanner;
