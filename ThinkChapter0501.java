@@ -1,5 +1,4 @@
 
-
 /**
  * ThinkChapter0501
  */
@@ -15,7 +14,7 @@ public class ThinkChapter0501 {
         System.out.println("a > b: " + (a > b));
         System.out.println("a < b: " + (a < b));
         System.out.println("a == b: " + (a == b));
-        System.out.println("a != b: " + (a != b));        
+        System.out.println("a != b: " + (a != b));
         System.out.println("b > d: " + (b < d));
         System.out.println("b >= d: " + (b <= d));
     }
@@ -26,7 +25,7 @@ public class ThinkChapter0501 {
         String orange = "Apple";
 
         System.out.println("Do not compare strings with == ");
-        System.out.println("apple == orange: " + (apple == orange));     
+        System.out.println("apple == orange: " + (apple == orange));
     }
 
     public static void howToCompareStrings() {
@@ -34,11 +33,11 @@ public class ThinkChapter0501 {
         String orange = "Orange";
 
         System.out.println("Do not compare strings with == ");
-        System.out.println("apple.equals(orange): " + apple.equals(orange));        
+        System.out.println("apple.equals(orange): " + apple.equals(orange));
     }
 
     public static void main(String[] args) {
-        
+
         howNotToCompareStrings();
     }
 }
