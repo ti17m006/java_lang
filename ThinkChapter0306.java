@@ -1,7 +1,7 @@
 
-/* 
-    Convert temperature from Celsius to Feirenheit
-    f = c x (9/5) + 32
+/** 
+ * Convert temperature from Celsius to Feirenheit 
+ *  f = c x (9/5) + 32
 */
 
 import java.util.Scanner;
