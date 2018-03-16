@@ -1,6 +1,5 @@
 
-
-/* 
+/** 
  * Page 26
  * 
  * Write a program ThinkChapter0203 so that 
@@ -15,20 +14,19 @@
  * 
  */
 
-
 class ThinkChapter0203 {
-	
-	public static void main(String [] args) {
-		
+
+	public static void main(String[] args) {
+
 		String day = "Tuesday";
 		String date = "27th";
 		String month = "February";
 		int year = 2018;
-		
+
 		//separator
 		String sep = ", ";
 		String sp = " ";
-		
+
 		System.out.println("American format:");
 		System.out.print(day);
 		System.out.print(sep);
@@ -38,7 +36,7 @@ class ThinkChapter0203 {
 		System.out.print(sep);
 		System.out.print(year);
 		System.out.println();
-		
+
 		System.out.println("European format:");
 		System.out.print(day);
 		System.out.print(sp);
