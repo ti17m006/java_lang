@@ -1,8 +1,8 @@
-/*  
-    Scanner bug
-    Scanner doesn’t  see input as multiple lines. 
-    Instead, it gets a “stream of characters”.
-
+/**
+ *   
+ * Scanner bug
+ * Scanner doesn’t  see input as multiple lines. 
+ * Instead, it gets a “stream of characters”.
 */
 
 import java.util.Scanner;
