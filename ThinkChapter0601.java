@@ -1,3 +1,4 @@
+
 /**
  * ThinkChapter0601
  * 
@@ -9,6 +10,7 @@ public class ThinkChapter0601 {
     public static boolean isNumberOdd(int a) {
         return a % 2 != 0;
     }
+
     public static String stringIsNumberOdd(int a) {
         return isNumberOdd(a) ? "The number is odd" : "The number is even";
     }
