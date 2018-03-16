@@ -1,7 +1,6 @@
-/*
-    Convert inches to centimetes using constant
-    
-*/
+/**
+ * Convert inches to centimetes using constant
+ */
 
 import java.util.Scanner;
 
