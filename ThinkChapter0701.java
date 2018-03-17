@@ -2,7 +2,6 @@
 /**
  * ThinkChapter0701
  */
-import java.math.*;
 
 class ThinkChapter0701 {
 
