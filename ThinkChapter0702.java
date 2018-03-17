@@ -1,3 +1,4 @@
+
 /**
  * ThinkChapter0702
  */
@@ -9,7 +10,7 @@ class ThinkChapter0702 {
         final double LOG2 = Math.log(2);
         int n = 6;
         int i = 1;
-        while(i < 100) {
+        while (i < 100) {
             double x = (double) i;
             System.out.println(x + "\t" + Math.log(x) / LOG2);
             i = i * 2;
