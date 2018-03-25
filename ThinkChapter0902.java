@@ -30,13 +30,6 @@ class IntArray {
             System.out.println("i[" + i + "]: " + intArray[i]);
         }
     }
-
-    public void forEach() {
-        System.out.println("Elements of array: ");
-        for (int el : intArray) {
-            System.out.println("i[" + "]: " + el);
-        }
-    }
 }
 
 class ThinkChapter0902 {
